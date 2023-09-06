@@ -1,0 +1,7 @@
+syntax = "proto2";
+
+message person_data_fuzz {
+  required uint64 fuzz_id = 1;
+  required bytes fuzz_name = 2;
+}
+
