@@ -1,4 +1,7 @@
 ## Libprotobuf Fuzzing
+### MobileHackingLab Article
+
+https://www.mobilehackinglab.com/blog/libprotobuf-fuzzing
 
 ### Instructions
 
